@@ -1,0 +1,41 @@
+{
+  "best_model": "Random Forest",
+  "test_accuracy": 1.0,
+  "test_f1": 1.0,
+  "career_labels": [
+    "Backend Engineer",
+    "Business Analyst",
+    "Cloud Engineer",
+    "Cybersecurity Analyst",
+    "Data Analyst",
+    "Data Scientist",
+    "DevOps Engineer",
+    "Embedded Systems Engineer",
+    "Frontend Developer",
+    "Full Stack Developer",
+    "ML Engineer",
+    "Mobile Developer",
+    "QA Engineer",
+    "Software Engineer",
+    "UI/UX Designer"
+  ],
+  "total_training_samples": 6000,
+  "total_test_samples": 1500,
+  "all_model_results": {
+    "Random Forest": {
+      "cv_f1_mean": 0.9998,
+      "test_accuracy": 1.0,
+      "test_f1": 1.0
+    },
+    "Logistic Regression": {
+      "cv_f1_mean": 1.0,
+      "test_accuracy": 1.0,
+      "test_f1": 1.0
+    },
+    "Linear SVC (Calibrated)": {
+      "cv_f1_mean": 1.0,
+      "test_accuracy": 1.0,
+      "test_f1": 1.0
+    }
+  }
+}

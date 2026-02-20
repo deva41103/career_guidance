@@ -1,0 +1,77 @@
+{
+  "Software Engineer": {
+    "required_skills": ["data structures", "algorithms", "object oriented programming", "git", "problem solving", "java", "python", "c++"],
+    "good_to_have": ["system design", "design patterns", "agile", "rest api", "unit testing", "docker"],
+    "improvement_areas": ["system design", "low level design", "competitive programming", "clean code practices", "code review skills"]
+  },
+  "Frontend Developer": {
+    "required_skills": ["html", "css", "javascript", "react", "responsive design", "git", "rest api"],
+    "good_to_have": ["typescript", "nextjs", "redux", "webpack", "figma", "tailwind css", "vue"],
+    "improvement_areas": ["web performance optimization", "accessibility", "browser compatibility", "ui/ux understanding", "state management"]
+  },
+  "Backend Engineer": {
+    "required_skills": ["python", "java", "node.js", "sql", "rest api", "git", "data structures", "databases"],
+    "good_to_have": ["docker", "redis", "microservices", "aws", "system design", "message queues", "mongodb"],
+    "improvement_areas": ["system design", "database optimization", "api security", "scalability", "clean architecture"]
+  },
+  "Full Stack Developer": {
+    "required_skills": ["html", "css", "javascript", "react", "node.js", "sql", "rest api", "git"],
+    "good_to_have": ["typescript", "docker", "mongodb", "nextjs", "aws", "redis"],
+    "improvement_areas": ["system design", "devops basics", "performance optimization", "testing", "security best practices"]
+  },
+  "Mobile Developer": {
+    "required_skills": ["flutter", "dart", "android", "kotlin", "java", "rest api", "git", "mobile ui"],
+    "good_to_have": ["firebase", "state management", "ios", "swift", "react native", "push notifications", "app store deployment"],
+    "improvement_areas": ["app performance", "offline-first design", "ui/ux for mobile", "platform guidelines", "testing on devices"]
+  },
+  "Data Scientist": {
+    "required_skills": ["python", "statistics", "machine learning", "pandas", "numpy", "sql", "data visualization", "probability"],
+    "good_to_have": ["deep learning", "tensorflow", "pytorch", "spark", "tableau", "feature engineering", "nlp"],
+    "improvement_areas": ["statistics and probability", "feature engineering", "model evaluation", "business communication", "experiment design"]
+  },
+  "ML Engineer": {
+    "required_skills": ["python", "machine learning", "deep learning", "tensorflow", "pytorch", "numpy", "pandas", "model deployment"],
+    "good_to_have": ["mlops", "docker", "kubernetes", "spark", "aws sagemaker", "fastapi", "data pipelines"],
+    "improvement_areas": ["model optimization", "mlops practices", "system design for ml", "distributed computing", "production deployment"]
+  },
+  "Data Analyst": {
+    "required_skills": ["sql", "excel", "python", "data visualization", "statistics", "pandas", "tableau", "power bi"],
+    "good_to_have": ["machine learning basics", "r", "google analytics", "looker", "etl", "dashboard design"],
+    "improvement_areas": ["storytelling with data", "business acumen", "advanced sql", "statistical analysis", "presentation skills"]
+  },
+  "DevOps Engineer": {
+    "required_skills": ["linux", "docker", "kubernetes", "ci/cd", "git", "aws", "shell scripting", "networking basics"],
+    "good_to_have": ["terraform", "ansible", "monitoring", "prometheus", "grafana", "azure", "jenkins"],
+    "improvement_areas": ["infrastructure as code", "security practices", "incident management", "cost optimization", "automation"]
+  },
+  "Cybersecurity Analyst": {
+    "required_skills": ["networking", "linux", "security fundamentals", "ethical hacking", "cryptography", "firewalls", "sql"],
+    "good_to_have": ["penetration testing", "siem tools", "python", "cloud security", "compliance", "kali linux", "wireshark"],
+    "improvement_areas": ["threat analysis", "incident response", "vulnerability assessment", "security certifications", "risk management"]
+  },
+  "UI/UX Designer": {
+    "required_skills": ["figma", "user research", "wireframing", "prototyping", "design thinking", "typography", "color theory"],
+    "good_to_have": ["adobe xd", "html css basics", "motion design", "accessibility", "usability testing", "sketch"],
+    "improvement_areas": ["user research methods", "interaction design", "portfolio building", "design systems", "stakeholder communication"]
+  },
+  "Business Analyst": {
+    "required_skills": ["requirement gathering", "sql", "excel", "data analysis", "documentation", "communication", "uml"],
+    "good_to_have": ["power bi", "tableau", "jira", "agile", "python basics", "process mapping", "stakeholder management"],
+    "improvement_areas": ["business domain knowledge", "presentation skills", "gap analysis", "user story writing", "project management"]
+  },
+  "QA Engineer": {
+    "required_skills": ["manual testing", "test cases", "bug reporting", "sql", "git", "api testing", "sdlc"],
+    "good_to_have": ["selenium", "automation testing", "python", "jmeter", "postman", "ci/cd", "performance testing"],
+    "improvement_areas": ["test automation", "performance testing", "security testing", "ci/cd integration", "analytical thinking"]
+  },
+  "Cloud Engineer": {
+    "required_skills": ["aws", "azure", "networking", "linux", "docker", "python", "git", "storage services"],
+    "good_to_have": ["kubernetes", "terraform", "serverless", "gcp", "cloud security", "cost optimization", "monitoring"],
+    "improvement_areas": ["multi-cloud architecture", "cost management", "serverless design", "certifications", "disaster recovery"]
+  },
+  "Embedded Systems Engineer": {
+    "required_skills": ["c", "c++", "microcontrollers", "rtos", "electronics", "arduino", "raspberry pi", "debugging"],
+    "good_to_have": ["python", "linux", "iot", "pcb design", "communication protocols", "matlab", "assembly"],
+    "improvement_areas": ["real-time systems", "hardware-software integration", "power optimization", "communication protocols", "testing embedded systems"]
+  }
+}
